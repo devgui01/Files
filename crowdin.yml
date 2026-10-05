@@ -4,3 +4,5 @@ append_commit_message:
 files:
   - source: /src/Files.App/Strings/en-US/*.resw
     translation: /src/Files.App/Strings/%locale%/%original_file_name%
+##
+##
